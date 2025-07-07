@@ -27,7 +27,7 @@ export default function App() {
     );
   }
 
-  function Episodes() {
+  function EpisodesList() {
     return (
       <section className="episodes">
         <h2>Episode List</h2>
